@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Sharvil!!</h1>
-<h3 align="center">Hi, I'm Sharvil Patel, currently a 3rd year student at School of Engineering and Applied Science,Ahmedabad University pursuing B-Tech ICT(Information & Communication Technology)</h3>
+<h3 align="center">I'm Sharvil Patel, currently a 3rd year student at School of Engineering and Applied Science,Ahmedabad University pursuing B-Tech ICT(Information & Communication Technology)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharvil24600&label=Profile%20views&color=0e75b6&style=flat" alt="sharvil24600" /> </p>
 
