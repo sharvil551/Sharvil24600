@@ -37,5 +37,5 @@
 
 
 
-[![YouTube](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/yt.svg)](https://www.youtube.com/watch?v=JN9nrN-GdgM)
+[![YouTube]](https://www.youtube.com/watch?v=JN9nrN-GdgM)
 
