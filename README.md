@@ -24,5 +24,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharvil24600&show_icons=true&theme=merko&hide_border=true&locale=en" alt="sharvil24600" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharvil24600&theme=highcontrast" alt="sharvil24600" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharvil24600&show_icons=true&theme=merko&hide_border=true&locale=en" alt="sharvil24600" /></p>
 
