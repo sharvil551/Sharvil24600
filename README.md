@@ -1,7 +1,5 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Sharvil!!</h1>
-<h3 align="center">Hi, I'm Sharvil Patel, currently a 4th year student at School of Engineering and Applied
-    Science,Ahmedabad University pursuing B-Tech ICT(Information & Communication Technology)</h3>
+<h3 align="center"> B-Tech ICT(Information & Communication Technology) graduate from School of Engineering and Applied  Science,Ahmedabad University</h3>
 
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=sharvil24600&label=Profile%20views&color=0080ff&style=flat"
