@@ -6,7 +6,7 @@
         alt="sharvil24600" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sharvil24600](https://github.com/Sharvil24600)
+- 👨‍💻 All of my projects are available at [https://github.com/sharvil551](https://github.com/sharvil551)
 
 - 📫 How to reach me **sharvilp018@gmail.com**
 
