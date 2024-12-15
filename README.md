@@ -2,8 +2,8 @@
 <h3 align="center"> B-Tech ICT(Information & Communication Technology) graduate from School of Engineering and Applied  Science,Ahmedabad University</h3>
 
 <p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=sharvil24600&label=Profile%20views&color=0080ff&style=flat"
-        alt="sharvil24600" /> </p>
+        src="https://komarev.com/ghpvc/?username=sharvil551&label=Profile%20views&color=0080ff&style=flat"
+        alt="sharvil551" /> </p>
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/sharvil551](https://github.com/sharvil551)
@@ -68,20 +68,20 @@
             width="40" height="40" /> </a> </p>
 <br><br>
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center"
-            src="https://github-profile-trophy.vercel.app/?username=sharvil24600&theme=juicyfresh&row=2&column=3"
-            alt="sharvil24600" /></a> </p>
+            src="https://github-profile-trophy.vercel.app/?username=sharvil551&theme=juicyfresh&row=2&column=3"
+            alt="sharvil551" /></a> </p>
 
 <br>
 <p><img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=sharvil24600&show_icons=true&theme=merko&hide_border=true&locale=en&layout=compact"
-        alt="sharvil24600" /></p>
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=sharvil551&show_icons=true&theme=merko&hide_border=true&locale=en&layout=compact"
+        alt="sharvil551" /></p>
 
 <br>
 <p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=sharvil24600&show_icons=true&theme=merko&hide_border=true&locale=en"
-        alt="sharvil24600" /></p>
+        src="https://github-readme-stats.vercel.app/api?username=sharvil551&show_icons=true&theme=merko&hide_border=true&locale=en"
+        alt="sharvil551" /></p>
 
 <br>
 <p><img align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=sharvil24600&show_icons=true&theme=merko&hide_border=true&locale=en"
-        alt="sharvil24600" /></p>
+        src="https://github-readme-streak-stats.herokuapp.com/?user=sharvil551&show_icons=true&theme=merko&hide_border=true&locale=en"
+        alt="sharvil551" /></p>
